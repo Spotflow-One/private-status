@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Generate README
-    runs-on: [self-hosted, Linux, X64, spotflow, prod]
+    runs-on: [self-hosted, Linux, X64, spotflow, prod, general]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
