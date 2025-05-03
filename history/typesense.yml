@@ -1,7 +1,7 @@
 url: https://typesense.spotflow.co/health
-status: down
-code: 503
-responseTime: 56
-lastUpdated: 2025-05-03T14:30:29.097Z
+status: up
+code: 200
+responseTime: 37
+lastUpdated: 2025-05-03T14:55:01.105Z
 startTime: 2025-02-19T07:21:38.576Z
 generator: Upptime <https://github.com/upptime/upptime>
