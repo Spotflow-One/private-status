@@ -24,17 +24,17 @@
     "url": "https://typesense.spotflow.co/health",
     "icon": "https://icons.duckduckgo.com/ip3/typesense.spotflow.co.ico",
     "slug": "typesense",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 50,
-    "timeDay": 51,
-    "timeWeek": 47,
+    "time": 51,
+    "timeDay": 54,
+    "timeWeek": 49,
     "timeMonth": 49,
-    "timeYear": 50,
+    "timeYear": 51,
     "dailyMinutesDown": {
       "2025-02-19": 29
     }
