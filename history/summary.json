@@ -45,7 +45,7 @@
     "url": "https://admin-api.spotflow.co/api-docs",
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.spotflow.co.ico",
     "slug": "admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,9 +53,11 @@
     "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 60,
-    "timeWeek": 55,
+    "timeWeek": 56,
     "timeMonth": 56,
     "timeYear": 57,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   }
 ]
