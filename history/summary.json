@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 53,
-    "timeDay": 40,
-    "timeWeek": 43,
+    "timeDay": 49,
+    "timeWeek": 44,
     "timeMonth": 45,
     "timeYear": 53,
-    "dailyMinutesDown": {
-      "2025-02-19": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Typesense",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.spotflow.co.ico",
     "slug": "typesense",
     "status": "down",
-    "uptime": "54.33%",
+    "uptime": "54.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.33%",
+    "uptimeYear": "54.18%",
     "time": 53,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2026-02-18": 13,
+      "2026-02-19": 13,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -204,8 +203,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 87,
-      "2025-05-03": 25,
-      "2025-02-19": 29
+      "2025-05-03": 25
     }
   },
   {
@@ -220,8 +218,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 69,
-    "timeWeek": 58,
+    "timeDay": 59,
+    "timeWeek": 59,
     "timeMonth": 63,
     "timeYear": 64,
     "dailyMinutesDown": {
