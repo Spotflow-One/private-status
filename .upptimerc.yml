@@ -7,8 +7,27 @@ sites:
     url: https://ledger-api.spotflow.co/
     expectedStatusCodes:
       - 401
-  - name: Typesense
-    url: https://typesense.spotflow.co/health
+  
+  - name: Oracle
+    url: http://spotflow-oracle-alb-1585543804.us-east-2.elb.amazonaws.com/actuator/health
+  
+  - name: Exchange
+    url: http://spotflow-exchange-alb-1925864159.us-east-2.elb.amazonaws.com/actuator/health
+  
+  - name: Onchain
+    url: http://spotflow-onchain-alb-464868419.us-east-2.elb.amazonaws.com/actuator/health
+  
+  - name: Notification
+    url: http://spotflow-notification-alb-1735256641.us-east-2.elb.amazonaws.com/actuator/health
+  
+  - name: Gateway
+    url: http://spotflow-prod-nlb-c01741dfe9a9375b.elb.us-east-2.amazonaws.com/actuator/health
+    
+  - name: Accounts
+    url: http://spotflow-accounts-alb-918808033.us-east-2.elb.amazonaws.com/actuator/health
+    
+  - name: Hyperrail-User
+    url: http://hyperrail-user-alb-130860453.us-east-2.elb.amazonaws.com/actuator/health
   
   - name: Admin API
     url: https://admin-api.spotflow.co/api-docs
