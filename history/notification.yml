@@ -1,7 +1,7 @@
 url: http://spotflow-notification-alb-1735256641.us-east-2.elb.amazonaws.com/actuator/health
 status: up
 code: 200
-responseTime: 20
-lastUpdated: 2026-03-25T23:11:18.357Z
+responseTime: 9
+lastUpdated: 2026-03-26T23:08:09.951Z
 startTime: 2026-02-25T07:27:03.219Z
 generator: Upptime <https://github.com/upptime/upptime>
